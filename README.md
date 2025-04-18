@@ -22,7 +22,7 @@
 
 ## 🏙️ Setor de Aplicação
 
-Condomínio Argentina, Uberlândia - MG, destinado a usuários que desejam uma ferramenta fácil para registrar e visualizar seus gastos diários sem a necessidade de instalação de aplicativos.
+Condomínio Argentina, destinado a usuários que desejam uma ferramenta fácil para registrar e visualizar seus gastos diários sem a necessidade de instalação de aplicativos.
 
 ## 🌱 Objetivos de Desenvolvimento Sustentável (ODS)
 

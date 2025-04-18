@@ -19,7 +19,7 @@ export default function Layout() {
         </main>
 
         <footer className="mt-6 text-center text-xs text-muted-foreground py-2">
-          <p>Desenvolvido para o Condomínio Argentina, Uberlândia - MG</p>
+          <p>Desenvolvido para o Condomínio Argentina</p>
           <p className="mt-1">
             © {new Date().getFullYear()} - Consumo e produção responsáveis
           </p>
